@@ -6,6 +6,9 @@
 
 ![GraphQL Playground Demo](./docs/screenshots/graphql-playground.png)
 
+![Market Intelligence](./docs/screenshots/market-intelligence.png)
+_Pre-computed analytics and market health metrics_
+
 ---
 
 ## One API. Infinite Possibilities.
@@ -233,6 +236,9 @@ Target          ═════════════════════�
 - Whale Tracking: $100k+ threshold, 2-minute polling
 
 See [PERFORMANCE_ANALYSIS.md](./PERFORMANCE_ANALYSIS.md) for detailed benchmarks.
+
+![Test Results](./docs/screenshots/test-results.png)
+_All 8 automated tests passing with response times_
 
 ---
 
