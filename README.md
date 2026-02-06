@@ -5,7 +5,6 @@
 > **🏆 Built for Ninja API Forge Hackathon**
 
 ![GraphQL Playground Demo](./docs/screenshots/graphql-playground.png)
-_[Screenshot Placeholder: GraphQL Playground showing arbitrage query with results]_
 
 ---
 
@@ -16,9 +15,6 @@ _[Screenshot Placeholder: GraphQL Playground showing arbitrage query with result
 - 🎯 **GraphQL + REST** - Modern GraphQL with REST fallbacks
 - 🐋 **Whale tracking** - Monitor large trades automatically ($100k+ threshold)
 - 🔐 **N1NJ4 Ready** - Identity integration with tiered rate limiting
-
-![Performance Chart](./docs/screenshots/performance-chart.png)
-_[Screenshot Placeholder: Performance comparison chart]_
 
 ---
 
@@ -104,9 +100,6 @@ query MarketHealth {
 }
 ```
 
-![Arbitrage Query Screenshot](./docs/screenshots/arbitrage-query.png)
-_[Screenshot Placeholder: Arbitrage query execution in GraphQL Playground]_
-
 ---
 
 ## 🚀 Quick Start
@@ -168,7 +161,6 @@ npm run dev
 ## � Architecture Overview
 
 ![System Architecture](./docs/screenshots/architecture-diagram.png)
-_[Screenshot Placeholder: System architecture from ARCHITECTURE.md]_
 
 **Key Components:**
 
@@ -189,9 +181,6 @@ _[Screenshot Placeholder: System architecture from ARCHITECTURE.md]_
 ---
 
 ## 🎯 N1NJ4 Identity Integration
-
-![N1NJ4 Verification Flow](./docs/screenshots/n1nja-flow.png)
-_[Screenshot Placeholder: N1NJ4 verification endpoint demonstration]_
 
 **Tiered Rate Limiting:**
 
@@ -279,6 +268,8 @@ See [PERFORMANCE_ANALYSIS.md](./PERFORMANCE_ANALYSIS.md) for detailed benchmarks
 
 ## 📚 Documentation
 
+**📖 Live Documentation:** https://nihal-pandey-2302.github.io/injectiveql/
+
 - [Quick Start Guide](./docs/QUICK_START.md) - Detailed setup instructions
 - [Architecture Deep Dive](./docs/ARCHITECTURE.md) - System design & data flow
 - [Performance Analysis](./PERFORMANCE_ANALYSIS.md) - Benchmarks & optimization
@@ -362,17 +353,9 @@ MIT License - see [LICENSE](./LICENSE) for details
 
 ---
 
-## 📞 Contact & Links
-
-- **Demo Video**: [YouTube Link - 3min walkthrough]
-- **GraphQL Playground**: http://your-deployment.com/graphql
-- **X (Twitter)**: [@yourhandle]
-- **GitHub**: [This Repository]
-
-**Built with ❤️ for the Injective ecosystem**
-
 ---
 
 <p align="center">
-  <strong>InjectiveQL - Making Injective Data Developer-Friendly</strong>
+  <strong>InjectiveQL - Making Injective Data Developer-Friendly</strong><br>
+  Built with ❤️ for the Injective ecosystem
 </p>
