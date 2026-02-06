@@ -1,0 +1,10 @@
+theme: jekyll-theme-cayman
+title: InjectiveQL
+description: GraphQL API Gateway for Injective Protocol with pre-computed analytics
+show_downloads: true
+google_analytics: # Add your GA tracking ID here if needed
+
+# GitHub metadata
+github:
+  repository_url: https://github.com/Nihal-Pandey-2302/injectiveql
+  is_project_page: true
